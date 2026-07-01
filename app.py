@@ -18,7 +18,7 @@ st.set_page_config(
 # -----------------------------
 
 model = joblib.load("spam_model.pkl")
-vectorizer = joblib.load("vectorizer.pkl")
+vectorizer = joblib.load("vectorizer (1).pkl")
 
 
 # -----------------------------
